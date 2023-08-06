@@ -4,13 +4,13 @@ One-page mobile-friendly web project designed for CLIP - The Oporto Internationa
 
 
 
-![](https://lourencofsilva.github.io/demo/clipcast/desktop1.png)
+![](https://www.lourencofsilva.com/demo/clipcast/desktop1.png)
 
 ## Demo
 
 This project can be accessed at:
 
-https://lourencofsilva.github.io/demo/clipcast/index.html
+https://www.lourencofsilva.com/demo/clipcast
 ## License
 
 ```
